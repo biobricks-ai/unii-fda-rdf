@@ -1,0 +1,7 @@
+/.venv/
+/.pytest_cache/
+/.bb/cache/
+__pycache__/
+*.pyc
+/brick/*.nt
+/reports/*.json
